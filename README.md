@@ -2,7 +2,7 @@
 
 I'm Sumair and I make mobile apps for 🍎 devices using Swift!
 
-- 🔭 I’m currently working on [MuayThaiNotes](https://github.com/sumairzamir/MuayThaiNotesApp) and [ATimerApp](https://github.com/sumairzamir/ATimerApp)
+- 🔭 I’m currently working on [MuayThaiNotes](https://github.com/sumairzamir/MuayThaiNotesApp) (it's on the App Store 😀) and [ATimerApp](https://github.com/sumairzamir/ATimerApp)
 - 🌱 I’m currently experimenting with [RxSwift](https://github.com/ReactiveX/RxSwift) and [SwiftUI](https://github.com/sumairzamir/LandmarksApp)
 - 💬 Ask me about anything, always happy to have a chat!
 - 📫 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/sumairzamir/)
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github.com/sumairzamir/ATimerApp
