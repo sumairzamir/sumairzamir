@@ -21,9 +21,6 @@ I'm Sumair and I make mobile apps for 🍎 devices using Swift!
 <a href="https://github.com/sumairzamir/ATimerApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumairzamir&repo=ATimerApp" height=130 />
 </a>
-<a href="https://github.com/sumairzamir/ALittleImageGalleryApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumairzamir&repo=ALittleImageGalleryApp" height=130 />
-</a>
 
 <!--
 **sumairzamir/sumairzamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
